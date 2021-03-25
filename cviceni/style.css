@@ -19,17 +19,28 @@ nav li {
 nav a {
     background-color: #40bf9599;
     padding: 1rem;
+    border: 3px solid rgb(17, 88, 88);
 }
+
+nav a:hover{background-color: #1f614b}
 
 header {
     min-height: 200px;
-    padding: 2rem 4rem;        
+    padding: 2rem 3rem;
     background-image:url(https://picsum.photos/1200/300) ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }    
+
 
 h1{
     font-size: 3rem;
     text-align: center;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
 }
 
 
