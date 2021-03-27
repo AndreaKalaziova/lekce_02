@@ -59,6 +59,17 @@ section{
     padding: 1rem;
     border-bottom: 2px dotted #003322 ;
     margin: 1rem -1rem -1rem -1rem;
+    display: flow-root;
+}
+
+section img {
+    width: 175px;
+    float: left;
+    margin-right: 1rem;
+}
+
+h3{
+    clear: left;
 }
 
 /*
