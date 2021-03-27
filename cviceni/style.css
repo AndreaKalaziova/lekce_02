@@ -13,9 +13,9 @@ nav {
 }
 
 nav li {
-    display: inline;
-    text-align: justify;
-    
+    display: inline-block;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 nav a {
